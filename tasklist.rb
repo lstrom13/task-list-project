@@ -84,3 +84,5 @@ p laundry
 
 todo.newtask(laundry)
 p todo
+
+p laundry
